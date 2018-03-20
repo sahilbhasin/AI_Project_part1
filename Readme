@@ -1,0 +1,12 @@
+CIFAR Image RecognitionUsing Tensorflow 
+
+Configurations:
+
+Operating System - Windows 10
+Python version - 3.6
+Tensorflow version -1.4
+Datasets – CIFAR-10, CIFAR-100
+
+To train the dataset, run train.py
+
+To see the prediction functionality of the model(how the classifier predicts the class label based on scores), run predict.py
